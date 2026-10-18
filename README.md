@@ -16,3 +16,5 @@ This is a custom PCB designed from scratch in KiCad 8. It takes a 5V input and b
 
 ## 3D Render
 ![Nixie Clock 3D Render](nixie_clockFRONT.png)
+## Gerber
+* [x] Gerber Files Generated (nixie_clock-B_Cu.zip)
